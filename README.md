@@ -1,7 +1,6 @@
 # Property Analysis Report
 
 **Author**: Shayan Razavi  
-**Student ID**: 13532736  
 
 This repository showcases a property market analysis conducted on data from Ashcroft, NSW, using key economic indicators and statistical methods. The analysis explores supply and demand, affordability trends, and income dynamics to provide actionable insights for investors, policymakers, and residents.
 
